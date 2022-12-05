@@ -27,7 +27,6 @@ import org.springframework.security.web.authentication.UsernamePasswordAuthentic
 import javax.sql.DataSource;
 import java.security.SecureRandom;
 
-@EnableGlobalMethodSecurity
 @Configuration
 public class SecurityConfig {
 
